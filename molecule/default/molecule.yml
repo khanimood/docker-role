@@ -1,0 +1,13 @@
+---
+dependency:
+  name: galaxy
+driver:
+  name: docker
+platforms:
+  - name: instance
+    image: willhallonline/ansible-test:2.10-ubuntu-20.04
+    pre_build_image: true
+provisioner:
+  name: ansible
+verifier:
+  name: ansible
