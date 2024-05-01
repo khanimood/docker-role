@@ -11,7 +11,7 @@ Installed Ansible :)
 Role Variables
 --------------
 
-username - machine username for docker installation
+docker_username - machine username for docker installation
 
 ansible_distribution - ansible fact
 ansible_distribution_release - ansible fact

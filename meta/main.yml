@@ -2,7 +2,7 @@ galaxy_info:
   author: khanimood
   namespace: acme
   description: installs docker
-  company: OpenCloud-lab
+  company: v8s Tech
   license: license (GPL-2.0-or-later, MIT, etc)
 
   min_ansible_version: "2.1"

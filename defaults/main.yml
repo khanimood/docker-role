@@ -1,4 +1,4 @@
 ---
 # defaults file for docker
 
-username: admin
+docker_username: admin
